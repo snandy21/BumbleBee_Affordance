@@ -1,0 +1,4 @@
+mkdir _out
+mkdir _out_images
+rm -rf _out/*
+rm -rf _out_images/*
